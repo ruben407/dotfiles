@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ruben.berlin@icloud.com
+	name = Ruben Asmus
